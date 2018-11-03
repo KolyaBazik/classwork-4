@@ -1,0 +1,56 @@
+.one {
+     font-size: 15px;
+     text-align: center;
+     font-family: sans-serif;
+}
+.two {
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.three {
+    float: left;
+    width: 50%;
+}
+
+.three img{
+    width: 100%;
+    padding: 1%;
+    
+}
+.kolya {
+    border-color: transparent;
+    text-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    background: #20b9e7;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    left: 50px;
+    margin: 100px;
+}
+.kolka {
+    border-color: transparent;
+    text-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    background: #20b9e7;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    left: 50px;
+    margin: 100px;
+}
+.ivv {
+    text-align: center;
+}
+.iv {
+    text-align: center;
+}
